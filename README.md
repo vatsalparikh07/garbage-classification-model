@@ -2,7 +2,8 @@
 
 ## Aim: Develop an AI-powered system to improve waste management by accurately identifying and sorting different types of waste material.
 
-## Our Solution
+## Our Solution ([YouTube Video](https://youtu.be/8tO0eqCPUpM))
+  
 We aim to develop an intelligent waste classification system that can accurately identify different waste categories, such as cardboard, glass, metal, paper, plastic, and trash, using advanced computer vision and deep learning techniques.
 
 ## Workflow of the Waste Management AI System:
