@@ -2,10 +2,10 @@
 
 ## Aim: Develop an AI-powered system to improve waste management by accurately identifying and sorting different types of waste material.
 
-### Our Solution
+## Our Solution
 We aim to develop an intelligent waste classification system that can accurately identify different waste categories, such as cardboard, glass, metal, paper, plastic, and trash, using advanced computer vision and deep learning techniques.
 
-### Workflow of the Waste Management AI System:
+## Workflow of the Waste Management AI System:
 ![image](https://github.com/vatsalparikh07/garbage-classification-model/assets/65659649/8f318baf-d16c-4e9e-98c6-5093a5bd0ab3)
 
 1. **Object Input:** The process begins with an input image or video of waste, which must be in JPEG, JPG, PNG, or MP4 format.
@@ -22,7 +22,7 @@ We aim to develop an intelligent waste classification system that can accurately
 
 7. **Waste Segregation and Disposal Methods:** Based on the predicted category, appropriate waste segregation and disposal methods are determined.
 
-### Key Features
+## Key Features
 1. **Automated Sorting Process:**
    - Utilized InceptioNetV3 Machine learning model for image classification to sort different categories of waste (plastic, metal, glass, paper, and cardboard).
    - Once the waste material is identified by the model, it is automatically sorted into the appropriate category or bin, where for instance, blue dustbin would be used for recyclable material such as paper.
@@ -39,7 +39,7 @@ We aim to develop an intelligent waste classification system that can accurately
 
 Fig: A Preview of Waste Management AI System’s Website
 
-### Development Process
+## Development Process
 Waste Management System Model Pipeline -
 
 ![image](https://github.com/vatsalparikh07/garbage-classification-model/assets/65659649/7b8c3752-4292-455a-8297-fced4e9563a2)
@@ -58,7 +58,7 @@ Waste Management System Model Pipeline -
 
 7. **Continuous Evaluation:** Throughout the development process, we constantly evaluated the model's performance, fine-tuning hyperparameters, and adjusting the training process as needed to achieve optimal accuracy and ensure reliable waste classification results.
 
-### Challenges
+## Challenges
 - **Ambiguous Object Identification:** Addressing instances where the system misidentifies certain materials, such as confusing plastic with glass.
 - **Image Capturing through Camera Issues:** Overcoming challenges in capturing objects through the user’s camera and classifying the waste category.
 - **Computational Expense in Training:** Dealing with the computational intensity and time-consuming nature of the training process.
